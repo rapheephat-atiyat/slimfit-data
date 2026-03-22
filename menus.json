@@ -1,0 +1,595 @@
+[
+    {
+        "id": "1002997489",
+        "title": "H5 หมูปิ้ง low fat อาหารยอดนิยม",
+        "description": "หมูปิ้งLOW Fat Slimfit delivery ในตำนาน 1แพค มี 4 ไม้ แช่ช่องแข็งเก็บได้ 3 เดือน #หมูปิ้ง low fat BE HEALTHY BE SLIMFIT 🥗อาหารเพื่อสุขภาพลด/ควบคุมน้ำหนัก🥗 👨🏻‍🍳 \"กินของดีและอร่อย\"🍽 #slimfitdelivery #eatbetternotless 📲Line ID: @slimfitdelivery (มี@ด้วย)",
+        "price": 75,
+        "calories": 182,
+        "nutrition": {
+            "protein": 26,
+            "carbs": 8,
+            "fat": 3
+        },
+        "category": ["Pork", "Grilled"],
+        "tags": ["Low fat", "High Protein", "Breakfast"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547422213441193619cc1150t1081459e/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997489"
+    },
+    {
+        "id": "1002998492",
+        "title": "R6 กะเพราหมูสับพริกแห้ง อาหารยอดนิยม",
+        "description": "ผัดกระเพราสูตรลับของทางร้าน ไม่ใช้พริกสดเราใช้พริกแห้งคั่วเองกับมือ คั่วทีข้างบ้านถึงกับโวยย ผัดกับหมูสับและใบกระเพราแดงคัดเน้นๆ หอมอร่อยรสชาติไม่เหมือนใคร แน่นอนๆ",
+        "price": 85,
+        "calories": 331,
+        "nutrition": {
+            "protein": 37,
+            "carbs": 33,
+            "fat": 5
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Spicy", "High Protein", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711095595771486997b5782514t1339661b/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998492"
+    },
+    {
+        "id": "319496118",
+        "title": "แพ็คสุญญากาศ_กระเพราหมูสับพริกแห้ง (กับข้าว)",
+        "description": "ผัดกระเพราสูตรลับของทางร้าน ไม่ใช้พริกสดเราใช้พริกแห้งคั่วเองกับมือ คั่วทีข้างบ้านถึงกับโวยย ผัดกับหมูสับและใบกระเพราแดงคัดเน้นๆ หอมอร่อยรสชาติไม่เหมือนใคร แน่นอนๆ",
+        "price": 80,
+        "calories": 331,
+        "nutrition": {
+            "protein": 37,
+            "carbs": 33,
+            "fat": 5
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Spicy", "High Protein", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539344916696598019ce8971t10800a19/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496118"
+    },
+    {
+        "id": "1002997253",
+        "title": "H2 ทอดมันอกไก่+น้ำจิ้ม พร้อมทาน",
+        "description": "ทอดมัน อกไก่ อบ ไร้แป้ง เอาจริงก็คือไม่ได้ทอดและไม่มัน แต่อร่อยเหมือนได้กินทอดมันปกติ หอมเครื่องแกงมากๆ เนื้อแน่นด้วย จ้าาาา",
+        "price": 75,
+        "calories": 175,
+        "nutrition": {
+            "protein": 26,
+            "carbs": 8,
+            "fat": 3
+        },
+        "category": ["Chicken", "Appetizer"],
+        "tags": ["Low fat", "High Protein", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547293651388641819cb3917t10814098/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997253"
+    },
+    {
+        "id": "1002998586",
+        "title": "R7 พะแนงหมูนุ่ม",
+        "description": "หมูหมักนุ่มๆ คลุกเคล้ากับซอสพะแนงที่รสชาติหอมหวานกำลังดี สูตรเชฟคิดเองกับมือ อร่อยถูกใจหลายๆคนเลยแหละเมนูนี้",
+        "price": 85,
+        "calories": 408,
+        "nutrition": {
+            "protein": 38,
+            "carbs": 45,
+            "fat": 7
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Curry"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110945192914411766c6a508t133961e7/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998586"
+    },
+    {
+        "id": "319496309",
+        "title": "กล้วยเพรียวๆ ซูกัสกล้วย อาหารยอดฮิต พร้อมทาน ติดบ้านไว้ทานได้ทุกช่วงเวลา ขนมยอดนิยม",
+        "description": "🍌 กล้วยซูกัส Slimfitdelivery: ธรรมชาติแห่งความอร่อย! 🍌\n✨ ขนาดพกพา, รสชาติกลสมกล่อมลงตัว! ✨\n\n🌿 สินค้าที่พลิกโฉมการรับประทานกล้วย! 🌿\n\nสวัสดีค่ะทุกท่านที่รักการรับประทานกล้วย! ถึงเวลาที่เราจะพบกับ \"กล้วยซูกัส Slimfitdelivery\" ที่จะทำให้ทุกๆ ช่วงเวลาของคุณเป็นพิเศษ! 🚀\n\nข้อมูลสินค้า:\n🌳 กล้วยน้ำว้าสุก จากเพชรบุรี\n🌞 ปลูกโดยชาวบ้านเกษตรชุมชน\n🍃 100% ธรรมชาติ, ไร้น้ำตาล, ไร้สารกันบูด\n🍌 56kcal/1ชิ้น\n📦 1กล่องมี6ชิ้น, น้ำหนักรวม120กรัม\n\nSlimfitdelivery เปลี่ยนแปลงท่านได้อย่างไร?\n\n🍌 สุขภาพที่ดีขึ้น: กล้วยซูกัส Slimfitdelivery อร่อยและไร้น้ำตาลที่เพิ่มพลังงานได้โดยไม่ทำให้น้ำหนักเพิ่มขึ้น!\n\n🌳 ธรรมชาติและสะอาด: กล้วยน้ำว้าที่ถูกเลือกและเก็บเกี่ยวจากชุมชนเกษตรชุมชน, ส่งถึงคุณไร้สารเคมี!\n\n🌞 สะดวกพกพา: พกพาสะดวกพกไปได้ทุกที่ไม่ต้องกลัวอดอีกต่อไป!\n\nสนุกกับชีวิตแบบ Slimfitdelivery ไปพร้อมกัน!\n\n👉 ไปเลยที่ Shopee เพื่อสั่งซื้อ \"กล้วยซูกัส Slimfitdelivery\" และตอนนี้คุณมีโอกาสทดลองรสชาติที่ไม่เหมือนใคร!",
+        "price": 65,
+        "calories": 56,
+        "nutrition": {
+            "protein": 0.6,
+            "carbs": 13,
+            "fat": 0.7
+        },
+        "category": ["Dessert", "Snack", "Vegan"],
+        "tags": ["No Sugar Added", "Natural Sweet", "Jay Food", "Vegan Friendly"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110945192914411766c6a508t133961e7/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_166550801370914304319cc3651t1081c99d/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_166550801401753918119cc3653t1081c99e/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_166550801374576239819cd321t1081c99d/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_166550797722511421519cc3631t1081c979/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_166554439545422879619ca2043t108257bb/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_17047871310920797496c6a5702t12d923ab/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496309"
+    },
+    {
+        "id": "1002998095",
+        "title": "R1 ผัดเผ็ดหมูนุ่ม",
+        "description": "หมูหมักนุ่มๆ ผัดกับเครื่องแกงหอมๆ ตามด้วยสมุนไพรไทยหลากหลายชนิด รสชาติจัดจ้าทานกับข้าวสวยร้อนๆ อร่อยลงตัว",
+        "price": 85,
+        "calories": 362,
+        "nutrition": {
+            "protein": 40,
+            "carbs": 29,
+            "fat": 8
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Spicy", "High Protein", "Thai Food", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711098179842396901b5781365t13397033/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998095"
+    },
+    {
+        "id": "1002997726",
+        "title": "H9 หมูร้องไห้ (เผ็ดร้อน BURN พุง) พร้อมทาน",
+        "description": "หมูร้องไห้ พ่นไฟ หมูนุ่มๆ แต่รสไม่นุ่ม เผ็ดมากกก คนชอบกินเผ็ด ท้าให้ลอง ลองแล้วจะหายหนาวเลยจ้าา อร่อยกลมกล่อม เผ็ดจี้ดถึงใจ",
+        "price": 75,
+        "calories": 194,
+        "nutrition": {
+            "protein": 26.2,
+            "carbs": 12,
+            "fat": 4
+        },
+        "category": ["Pork", "Grilled"],
+        "tags": ["Thai Food", "High Protein", "Low Fat", "Spicy"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110993005960399556c6b5795t13397494/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997726"
+    },
+    {
+        "id": "319496120",
+        "title": "แพ็คสุญญากาศ แพนงหมูนุ่ม (กับข้าว)",
+        "description": "หมูหมักนุ่มๆ คลุกเคล้ากับซอสแพนงที่รสชาติหอมหวานกำลังดี สูตรเชฟคิดเองกับมือ อร่อยถูกใจหลายๆคนเลยแหละเมนูนี้",
+        "price": 80,
+        "calories": 408,
+        "nutrition": {
+            "protein": 38,
+            "carbs": 45,
+            "fat": 7
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Curry"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539353688878118919c96319t10800a70/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496120"
+    },
+    {
+        "id": "1002998213",
+        "title": "R3 หมูนุ่มผัดกะปิ",
+        "description": "หมูนุ่มคั่วกับกะปิหอมจากระยอง อร่อย นัวๆ ถ้าไปเติม พริกขี้หนูซอย และบีบมะนาวลงไปซักซีกนึง รับรองอร่อยเด็ด!!",
+        "price": 85,
+        "calories": 316,
+        "nutrition": {
+            "protein": 35,
+            "carbs": 30,
+            "fat": 5
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Stir-fried", "Savory"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711097535415073085b57848t13396daf/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998213"
+    },
+    {
+        "id": "1002997169",
+        "title": "H1 อกไก่ slimfit กินได้ไม่อ้วน",
+        "description": "อกไก่ Slimfit Signature อกไก่นุ่มไม่แห้ง หมักด้วยซอสสูตรพิเศษของเชฟคิดค้นมาเอง เมนูนี้มีมาตั้งแต่เริ่มเปิดร้าน และยังขายดีจนถึงทุกวันนี้",
+        "price": 55,
+        "calories": 157,
+        "nutrition": {
+            "protein": 26,
+            "carbs": 8,
+            "fat": 3
+        },
+        "category": ["Chicken", "Protein"],
+        "tags": ["High Protein", "Low Fat", "Clean Food", "Grilled"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547226016113443319d11755t10813df4/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997169"
+    },
+    {
+        "id": "1002999168",
+        "title": "R13 ข้าวหมูย่างจิ้มแจ่ว",
+        "description": "ใครบอกไม่เคยลองเมนูนี้ พลาดมากๆ เพราะเมนูนี้เป็นเมนูขายดีตลอดกาลของ Slimfit Delivery ย่างใหม่ทุกวันไม่มีวันไหนไม่หมดสต๊อก เป็นเวลากว่า 5 ปีแล้วเมนูนี้",
+        "price": 85,
+        "calories": 310,
+        "nutrition": {
+            "protein": 35,
+            "carbs": 29,
+            "fat": 5
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Grilled", "Spicy"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110943535984934276c6b1042t13396141/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002999168"
+    },
+    {
+        "id": "1002997772",
+        "title": "H10 ลูกชิ้นอกไก่ KETO กินไม่อ้วน น้าา ทำจากอกไก่",
+        "description": "ลูกชิ้นเด้งๆนุ่มๆ รสชาติอร่อย อกไก่ล้วนๆ 100% ไม่มีแป้ง ไม่มีมัน KETO FRIENDLY",
+        "price": 49,
+        "calories": 88,
+        "nutrition": {
+            "protein": 16.3,
+            "carbs": 0,
+            "fat": 2
+        },
+        "category": ["Chicken", "Snack", "Keto"],
+        "tags": ["Keto Friendly", "Zero Carb", "High Protein", "Low Calorie"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547568810162557619ca2271t10814b58/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997772"
+    },
+    {
+        "id": "1002998167",
+        "title": "R2 หมูนุ่มผัดซอสเทอริยากิ อาหารยอดฮิต",
+        "description": "หมูหมัก ผัดกับต้นหอมญี่ปุ่น และน้ำมันงา เติมด้วยซอสเทริยากิของเชฟปรุงเอง อร่อยกลมกล่อมน้าาา",
+        "price": 85,
+        "calories": 392,
+        "nutrition": {
+            "protein": 37,
+            "carbs": 42,
+            "fat": 7
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Fusion Food", "High Protein", "Teriyaki", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711097839190540331b5792688t13396edf/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998167"
+    },
+    {
+        "id": "1003002212",
+        "title": "S10 สปาเกตตี้โอลิโอ อกไก่ ซอสกระเทียม",
+        "description": "สปาเกตตี้ผัดพริกแห้งรสชาติจัดจ้าน อร่อยมาก ทานคู่กับอกไก่สลิมฟิตและซอสกระเทียมตัวเด็ด อร่อยเหาะ ลงตัวสุดๆ",
+        "price": 145,
+        "calories": 374,
+        "nutrition": {
+            "protein": 27,
+            "carbs": 41,
+            "fat": 10
+        },
+        "category": ["Chicken", "Main Course", "Pasta"],
+        "tags": ["Italian Style", "High Protein", "Fusion Food", "Garlic Sauce"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166554155857916995919ca9828t10824ca6/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1003002212"
+    },
+    {
+        "id": "1003002077",
+        "title": "S2 แซลมอนพริกไทยดำ",
+        "description": "แซลมอนพริกไทยดำ ซอสพริกไทยดำสูตรนี้ ไร้เทียมทานจริงๆ",
+        "price": 165,
+        "calories": 368,
+        "nutrition": {
+            "protein": 28,
+            "carbs": 28,
+            "fat": 16
+        },
+        "category": ["Fish", "Main Course"],
+        "tags": ["High Protein", "Omega-3", "Black Pepper", "Healthy Fat"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711039434894105190b5791948t13388aba/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1003002077"
+    },
+    {
+        "id": "1002998388",
+        "title": "R5 หมูนุ่มผัดกิมจิ อาหารยอดฮิต",
+        "description": "หมูหมักนุ่ม ผัดคู่กับกิมจิสูตรเกาหลีแท้ๆ รสชาติอร่อย เปรี้ยวนิดๆ ลงตัวกำลังดี",
+        "price": 85,
+        "calories": 286,
+        "nutrition": {
+            "protein": 30,
+            "carbs": 29,
+            "fat": 4
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Korean Style", "High Protein", "Low Fat", "Kimchi", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_171109621631903169322dd3739t13396888/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998388"
+    },
+    {
+        "id": "1002718047",
+        "title": "ลูกเดือยป๊อป (Vegan)",
+        "description": "ลูกเดือยป๊อปๆ (เจ) รสออริจินัล – ขนมสุขภาพกรุบกรอบ อร่อยเพลิน!\n\nหากคุณกำลังมองหาขนมขบเคี้ยวที่ทั้งอร่อยและดีต่อสุขภาพ ลูกเดือยป๊อปๆ (เจ) รสออริจินัล คือคำตอบที่ลงตัว! ทำจากลูกเดือยคุณภาพเยี่ยม ผ่านกระบวนการป๊อปให้กรุบกรอบ เคี้ยวเพลินในทุกคำ พร้อมรสชาติออริจินัลที่หอมกลมกล่อม ไม่หวานหรือเค็มจนเกินไป เป็นขนมที่เหมาะกับทุกช่วงเวลา ทั้งสำหรับคนรักสุขภาพและผู้ที่ทานเจ\n\nลูกเดือยเต็มไปด้วยคุณค่าทางโภชนาการ ทั้งไฟเบอร์ วิตามิน และแร่ธาตุ ช่วยให้อิ่มนานแต่แคลอรี่ต่ำ เหมาะสำหรับเป็นขนมขบเคี้ยวระหว่างวัน ไม่ว่าจะทานเล่นที่บ้าน หรือพกติดตัวไปที่ทำงานหรือโรงเรียนก็สะดวกสุดๆ\n\nจุดเด่นของ ลูกเดือยป๊อปๆ (เจ) รสออริจินัล:\n• กรอบเพลิน เคี้ยวมันส์ ในทุกคำ ด้วยกระบวนการป๊อปลูกเดือยคุณภาพ\n• รสชาติออริจินัล หอมกลมกล่อม ไม่หวานหรือเค็มจนเกินไป\n• วัตถุดิบธรรมชาติ 100% ไม่มีสารกันบูดหรือส่วนผสมจากสัตว์\n• แคลอรี่ต่ำ แต่มีไฟเบอร์สูง อิ่มท้องและดีต่อสุขภาพ\n• สะดวกและพกพาง่าย พร้อมให้คุณสั่งซื้อผ่านออนไลน์ ส่งตรงถึงหน้าบ้าน\n\nอย่ารอช้า! ลองทาน ลูกเดือยป๊อปๆ (เจ) รสออริจินัล แล้วคุณจะติดใจในความอร่อยที่มาพร้อมสุขภาพดี สั่งซื้อได้ง่าย ๆ เพียงคลิกเดียว! 🌾🥤",
+        "price": 99,
+        "calories": 92,
+        "nutrition": {
+            "protein": 2,
+            "carbs": 10,
+            "fat": 5
+        },
+        "category": ["Snack", "Healthy"],
+        "tags": ["Low Calorie", "Healthy Snack", "Vegan Friendly", "Natural"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166554392771977729319c9998t108255e7/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/cj0taHJqdnZoYnBkcnMzJnM9anA2JnQ9bSZ1PTFlcmQ0dGdqZzNpMDAmaT0w/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNmI3dG45ZWNyYjQ3diZzPWpwNiZ0PW0mdT0xZmc2bXVxNjQ0ODAxJmk9MQ/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/cj0tNmIwb2ozNjJub3F0aCZzPWpwNiZ0PW0mdT0xZmc2bXVya3M1MmcwJmk9MA/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/cj01YmNoZ2M0bHNyNDMzJnM9anA2JnQ9bSZ1PTFmZzZtdXNzazQ4MDAmaT0w/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/cj0tM2IyY2p1MHBkcWZuYyZzPWpwNiZ0PW0mdT0xZmc2bXZtdm81MmcwJmk9MA/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002718047"
+    },
+    {
+        "id": "319496090",
+        "title": "แพ็คสุญญากาศ ผัดเผ็ดหมูนุ่ม (กับข้าว)",
+        "description": "ลูกเดือยป๊อปๆ (เจ) รสออริจินัล – ขนมสุขภาพกรุบกรอบ อร่อยเพลิน!\n\nหากคุณกำลังมองหาขนมขบเคี้ยวที่ทั้งอร่อยและดีต่อสุขภาพ ลูกเดือยป๊อปๆ (เจ) รสออริจินัล คือคำตอบที่ลงตัว! ทำจากลูกเดือยคุณภาพเยี่ยม ผ่าหมูหมักนุ่มๆ ผัดกับเครื่องแกงหอมๆ ตามด้วยสมุนไพรไทยหลากหลายชนิด รสชาติจัดจ้าทานกับข้าวสวยร้อนๆ อร่อยลงตัว",
+        "price": 80,
+        "calories": 362,
+        "nutrition": {
+            "protein": 40,
+            "carbs": 29,
+            "fat": 8
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Spicy", "High Protein", "Thai Food", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539269740315234419cd4133t10800729/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496090"
+    },
+    {
+        "id": "319496113",
+        "title": "แพ็คสุญญากาศ_หมูผัดกิมจิ (กับข้าว)",
+        "description": "หมูนุ่มไร้มันผัดกิมจิสูตรเฉพาของเรา ไม่ใส่ผงชูรส รสชาติเกาหลีแท้ๆ",
+        "price": 80,
+        "calories": 286,
+        "nutrition": {
+            "protein": 30,
+            "carbs": 29,
+            "fat": 4
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Korean Style", "High Protein", "Low Fat", "Kimchi", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539334545291499419ce8739t108009b1/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496113"
+    },
+    {
+        "id": "319496097",
+        "title": "แพ็คสุญญากาศ หมูซอสเทริยากิ (กับข้าว)",
+        "description": "หมูนุ่มไร้มันผัดกิมจิสูตรเฉพาของเรา ไม่ใส่ผงชูรส รสชาติเกาหลีแท้ๆ",
+        "price": 80,
+        "calories": 392,
+        "nutrition": {
+            "protein": 37,
+            "carbs": 42,
+            "fat": 7
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Japanese Style", "High Protein", "Stir-fried", "Soy Sauce"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539295590948078719c95039t1080082c/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496097"
+    },
+    {
+        "id": "1003002053",
+        "title": "R14 ข้าวอกไก่สลิมฟิต ซอสกระเทียม",
+        "description": "อกไก่ Slimfit Signature อกไก่นุ่มไม่แห้ง หมักด้วยซอสสูตรพิเศษของเชฟคิดค้นมาเอง เมนูนี้มีมาตั้งแต่เริ่มเปิดร้าน และยังขายดีจนถึงทุกวันนี้",
+        "price": 85,
+        "calories": 273,
+        "nutrition": {
+            "protein": 31,
+            "carbs": 27,
+            "fat": 3
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["Garlic Sauce", "High Protein", "Low Fat", "Clean Food", "Grilled"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_171109443294501097322dd9468t13396190/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1003002053"
+    },
+    {
+        "id": "1002998862",
+        "title": "R8 อกไก่ผัดเขียวหวานแห้ง",
+        "description": "อกไก่นุ่ม คลุกเคล้ากับ พริกแกงเขียวหวานสูตรคุณยาย เติมด้วยกระชาย และใบมะกรูด ผัดจนหอม ราดข้าวรับรองว่าอร่อยไม่ลืมเลยย",
+        "price": 85,
+        "calories": 274,
+        "nutrition": {
+            "protein": 31,
+            "carbs": 29,
+            "fat": 3
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Low Fat", "Curry", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110950658685181886c6b2723t13396409/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998862"
+    },
+    {
+        "id": "1003002193",
+        "title": "S9 บะหมี่บุกหมูตุ๋น 9(ตัวเส้นบุกห้ามฟรีส)",
+        "description": "#หมูตุ๋นสมุนไพรฮ่องเต้ เราคัดส่วนที่อร่อยที่สุด ของหมู มาตุ๋นสมุนไพรไทยและจีนตู้มๆใส่ไม่ยั้ง. หอมหวลทั่วครัว ตุ๋นยาวนาน12ชม. จนเปื่อยและมันละลายหายไปหมด. ติดส่วนเอ็นที่เป็นโปรตีนด้วยน้า คือดียย์ อร่อยนุ่มชุ่มลิ้นฝุดๆ ทานคู่กับเส้นบะหมี่บุกคือฟินมว้ากกก ใครอยากลองสั่งเลยน้าา .",
+        "price": 145,
+        "calories": 230,
+        "nutrition": {
+            "protein": 33,
+            "carbs": 15,
+            "fat": 4
+        },
+        "category": ["Pork", "Main Course", "Noodles"],
+        "tags": ["Braised Pork", "High Protein", "Low Carb", "Low Fat", "Konjac Noodles"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_17110383844158991326c6b5694t133886a0/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1003002193"
+    },
+    {
+        "id": "319496294",
+        "title": "คุกกี้ข้าวโอ๊ต พร้อมทานทานได้ทุกช่วง เช้า สาย บ่าย ค่ำ",
+        "description": "คุกกี้ที่เต็มไปด้วยข้าวโอ๊ตและถั่วนานาชนิด หอมเนยแท้นำเข้า กรอบนอกนุ่มใน",
+        "price": 59,
+        "calories": null,
+        "nutrition": {
+            "protein": null,
+            "carbs": null,
+            "fat": null
+        },
+        "category": ["Dessert", "Snack"],
+        "tags": ["Healthy Snack", "Oatmeal", "High Fiber", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166555858972351556619d17228t10828f2d/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496294"
+    },
+    {
+        "id": "1002997533",
+        "title": "H6 แซลมอน เทอริยากิ พร้อมทาน",
+        "description": "แซลมอนนอร์เวย์สดๆ กริลล์บนเตาแล้ว Torch หอมๆ ราดด้วยซอสเทริยากิของเชฟสุดยอด ความฟินแบบไม่อ้วน",
+        "price": 139,
+        "calories": 221,
+        "nutrition": {
+            "protein": 23,
+            "carbs": 2,
+            "fat": 12
+        },
+        "category": ["Fish", "Main Course"],
+        "tags": ["Japanese Style", "High Protein", "Low Carb", "Healthy Fat", "Teriyaki"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547456559502273419ca9415t108146f5/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997533"
+    },
+    {
+        "id": "319496107",
+        "title": "แพ็คสุญญากาศ หมูผัดกะปิหอม (กับข้าว)",
+        "description": "หมูนุ่มคั่วกับกะปิหอมจากระยอง อร่อย นัวๆ ถ้าไปเติม พริกขี้หนูซอย และบีบมะนาวลงไปซักซีกนึง รับรองอร่อยเด็ด!!",
+        "price": 80,
+        "calories": 316,
+        "nutrition": {
+            "protein": 35,
+            "carbs": 30,
+            "fat": 5
+        },
+        "category": ["Pork", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Stir-fried", "Savory"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539314276247338819c95544t108008e6/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496107"
+    },
+    {
+        "id": "1002997603",
+        "title": "H7 ขาเห็ดคั่วซีอิ้วฮ่องกง plant-based (KETO) ทานได้ทุกช่วง",
+        "description": "ขาเห็ดคั่ว เคี้ยวหนุบหนับ กินเล่นเพลินๆ หรือทานกับข้าวก็อร่อย plant-based กินแทนเนื้อสัตว์ โปรตีนสูง แถมยัง keto ด้วยจ้า",
+        "price": 69,
+        "calories": 156,
+        "nutrition": {
+            "protein": 6.2,
+            "carbs": 12.4,
+            "fat": 10.8
+        },
+        "category": ["Mushroom", "Vegan", "Side Dish"],
+        "tags": ["Vegan Friendly", "Stir-fried", "Hong Kong Style", "Low Calorie", "Savory", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/cj01YTEwODZrNDlxdW1hJnM9anA2JnQ9bSZ1PTFlcmQ0Ymp0ODNoMDAmaT0w/s430p", "https://obs-ect.line-scdn.net/r/ect/ect/image_171109893913868574222dc5551t1339732b/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997603"
+    },
+    {
+        "id": "1002999051",
+        "title": "R11 วุ้นเส้นสไปซี่กิมจิ อกไก่",
+        "description": "BE HEALTHY BE SLIMFIT\n🥗อาหารเพื่อสุขภาพลด/ควบคุมน้ำหนัก🥗\n👨🏻‍🍳 \"กินของดีและอร่อย\"🍽\n#slimfitdelivery #eatbetternotless\n📲Line ID: @slimfitdelivery (มี@ด้วย)",
+        "price": 85,
+        "calories": 395,
+        "nutrition": {
+            "protein": 21,
+            "carbs": 61,
+            "fat": 6
+        },
+        "category": ["Chicken", "Main Course", "Noodles"],
+        "tags": ["Spicy", "Korean Style", "Kimchi", "High Protein", "Low Fat"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711095951493992945b5783371t1339677f/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002999051"
+    },
+    {
+        "id": "1002998327",
+        "title": "R4 อกไก่ผัดขี้เมา",
+        "description": "อกไก่หมัก ผัดกับพริกเหลือง กระเทียม และ สมุนไพรไทยหลากหลายชนิด ปรุงรสด้วยซอสผัดสูตรลับของเชฟ เมนูนี้บอกเลยแอดยังชอบเลยยย",
+        "price": 85,
+        "calories": 275,
+        "nutrition": {
+            "protein": 32,
+            "carbs": 30,
+            "fat": 2
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["Thai Food", "Spicy", "High Protein", "Low Fat", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1711096461518545811b5785001t1339697d/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998327"
+    },
+    {
+        "id": "319496125",
+        "title": "แพ็คสุญญากาศ อกไก่เขียวหวานแห้ง (กับข้าว)",
+        "description": "อกไก่นุ่ม คลุกเคล้ากับ พริกแกงเขียวหวานสูตรคุณยาย เติมด้วยกระชาย และใบมะกรูด ผัดจนหอม ราดข้าวรับรองว่าอร่อยไม่ลืมเลยย",
+        "price": 80,
+        "calories": 274,
+        "nutrition": {
+            "protein": 31,
+            "carbs": 29,
+            "fat": 3
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["Thai Food", "High Protein", "Low Fat", "Curry", "Stir-fried"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166539359822236895419c96505t10800aae/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496125"
+    },
+    {
+        "id": "1002210813",
+        "title": "เซตมือใหม่ เพิ่งเริ่มลด นน. (15 มื้อ)",
+        "description": "คัดเมนูยอดฮิต 15 มื้อ ครบทั้งหมู ไก่ ปลา และเส้น",
+        "price": 1000,
+        "calories": null,
+        "nutrition": { "protein": null, "carbs": null, "fat": null },
+        "category": ["Meal Plan", "Package"],
+        "tags": ["Value Pack", "15 Meals", "Weight Loss Set", "Newbie Friendly"],
+        "included_ids": [
+            "1002997489", "1002998167", "1002998388", "1002998492", 
+            "1002999168", "1002997253", "1002998862", "1002997169", 
+            "1003002053", "1002997169"
+        ],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_1705586968816639449b5785920t12e55808/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002210813"
+    },
+    {
+        "id": "1003002224",
+        "title": "S11 สปาเกตตี้กะปิหอม กุ้งกระเทียม",
+        "description": "สปาเกตตี้ฟิวชั่นแบบไทยๆสูตรเด็ดของเรา นำเส้นมาคั่วกระปิหอมๆ ทานแล้วเข้ากั๊น เข้ากันกับกุ้งกระเทียมหอมๆ",
+        "price": 165,
+        "calories": 329,
+        "nutrition": {
+            "protein": 33,
+            "carbs": 37,
+            "fat": 2
+        },
+        "category": ["Seafood", "Main Course", "Pasta"],
+        "tags": ["Thai Fusion", "High Protein", "Low Fat", "Garlic Shrimp", "Clean Food"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_171103793639251513722dc7228t133884e0/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1003002224"
+    },
+    {
+        "id": "1002997951",
+        "title": "H12 สเต็กอกไก่ BBQ",
+        "description": "อกไก่นุ่มๆ หมักด้วยซอสบาร์บีคิว หอมๆ สูตรของเชฟ อร่อยแบบชุ่มฉ่ำ แต่คุมเเคล อร่อยลืมไปเลยว่ากินอกไก่",
+        "price": 65,
+        "calories": 162,
+        "nutrition": {
+            "protein": 26.2,
+            "carbs": 12.4,
+            "fat": 4
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["BBQ Sauce", "High Protein", "Low Fat", "Clean Food", "Grilled"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547673506555041619cb5143t10814f6f/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997951"
+    },
+    {
+        "id": "1002998931",
+        "title": "R9 ข้าวอกไก่ย่างซอส BBQ",
+        "description": "อกไก่นุ่มๆ หมักด้วยซอสบาร์บีคิว หอมๆ สูตรของเชฟ อร่อยแบบชุ่มฉ่ำ แต่คุมเเคล อร่อยลืมไปเลยว่ากินอกไก่",
+        "price": 85,
+        "calories": 276,
+        "nutrition": {
+            "protein": 30,
+            "carbs": 31,
+            "fat": 2
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["BBQ Sauce", "High Protein", "Low Fat", "Clean Food", "Grilled"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_171109410753695121622dc1514t1339604b/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002998931"
+    },
+    {
+        "id": "319496350",
+        "title": "หมูเส้นอบกรอบ สูตรฮ่องกง กรุ๊บๆ พร้อมทาน เคี้ยวเพลิน แป๊ปเดียวหมด ทานได้ทุกช่วงวัย",
+        "description": "หมูเส้นอบกรอบทรงเครื่อง อร่อยทานเล่นหรือ ทานกับข้าวต้มก็อร่อย ลืมอ้วน เพราะไม่มีน้ำมัน ไม่มีผงชูรส ไม่มีสารกันเสีย",
+        "price": 249,
+        "calories": 70,
+        "nutrition": {
+            "protein": 12,
+            "carbs": 4,
+            "fat": 1
+        },
+        "category": ["Pork", "Snack"],
+        "tags": ["High Protein", "Low Fat", "Healthy Snack", "Crispy"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166554416346887495319ca1497t108256d3/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/319496350"
+    },
+    {
+        "id": "1002997915",
+        "title": "H11 สเต็กอกไก่แซ่บ",
+        "description": "อกไก่นุ่มๆย่างซอสหมักสูตรเด็ดของเชฟ อร่อยมากก แซ่บแบบไม่ง้อน้ำจิ้มกินกับข้าวซูเปอร์ไรซ์หอมๆ สุดยอดดดดด น้ำลายสอออ",
+        "price": 65,
+        "calories": 150,
+        "nutrition": {
+            "protein": 26,
+            "carbs": 6,
+            "fat": 3
+        },
+        "category": ["Chicken", "Main Course"],
+        "tags": ["Spicy", "High Protein", "Low Fat", "Thai Style"],
+        "image_url": ["https://obs-ect.line-scdn.net/r/ect/ect/image_166547643804764731819cb4261t10814e46/s430p"],
+        "link": "https://shop.line.me/@slimfitdelivery/product/1002997915"
+    }
+]
